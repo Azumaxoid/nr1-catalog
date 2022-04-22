@@ -76,3 +76,6 @@
 [submodule "apps/nr1-kentik-network-monitoring"]
 	path = apps/nr1-kentik-network-monitoring
 	url = https://github.com/newrelic/nr1-kentik-network-monitoring.git
+[submodule "apps/nr1-np1-shooter"]
+	path = apps/nr1-np1-shooter
+	url = https://github.com/newrelickk/nr1-np1-shooter
